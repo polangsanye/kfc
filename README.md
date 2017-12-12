@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Build Setup
-
+## 地址：https://polangsanye.github.io/kfc/dist/index.html
 ``` bash
 # install dependencies
 npm install
